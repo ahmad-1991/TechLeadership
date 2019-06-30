@@ -19,6 +19,7 @@
 		E08C44D122C77F75008F5CA3 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08C44D022C77F75008F5CA3 /* Helpers.swift */; };
 		E08C44D422C78DC6008F5CA3 /* Leader.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08C44D322C78DC6008F5CA3 /* Leader.swift */; };
 		E0B08CFA22C7B51F0003C619 /* leadership.json in Resources */ = {isa = PBXBuildFile; fileRef = E0B08CD322C7A6D40003C619 /* leadership.json */; };
+		E0D2C75522C95138009944A7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E0D2C75422C95137009944A7 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		E08C44D022C77F75008F5CA3 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 		E08C44D322C78DC6008F5CA3 /* Leader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leader.swift; sourceTree = "<group>"; };
 		E0B08CD322C7A6D40003C619 /* leadership.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = leadership.json; sourceTree = "<group>"; };
+		E0D2C75422C95137009944A7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		E08C44B022C77E76008F5CA3 = {
 			isa = PBXGroup;
 			children = (
+				E0D2C75422C95137009944A7 /* README.md */,
 				E08C44BB22C77E77008F5CA3 /* TechLeadership */,
 				E08C44BA22C77E77008F5CA3 /* Products */,
 			);
@@ -153,6 +156,7 @@
 			files = (
 				E0B08CFA22C7B51F0003C619 /* leadership.json in Resources */,
 				E08C44C922C77E7A008F5CA3 /* LaunchScreen.storyboard in Resources */,
+				E0D2C75522C95138009944A7 /* README.md in Resources */,
 				E08C44C622C77E7A008F5CA3 /* Preview Assets.xcassets in Resources */,
 				E08C44C322C77E7A008F5CA3 /* Assets.xcassets in Resources */,
 			);
