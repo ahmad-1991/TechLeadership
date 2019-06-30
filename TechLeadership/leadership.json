@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "name" : "Tim Cook",
+        "title" : "CEO",
+        "imageName" : "tim-cook"
+
+    },
+    {
+        "id": 2,
+        "name" : "Dan Riccio",
+        "title" : "senior Vice President, Hardware Engineering",
+        "imageName" : "dan"
+    },
+    {
+        "id": 3,
+        "name": "Jonathan Ive",
+        "title": "Chief Design Officer",
+        "imageName": "jonathan"
+    },
+    {
+        "id" : 4,
+        "name" : "Katherine Adams",
+        "title" : "Senior Vice Persident and General Counsel",
+        "imageName" : "katherine"
+    },
+    {
+        "id" : 5,
+        "name" : "Craig Federight",
+        "title" : "Senior Vice President, Software Engineering",
+        "imageName" : "craig"
+    },
+]
