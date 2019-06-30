@@ -30,6 +30,9 @@ struct LeaderList : View {
                     }
                 }
                 }.navigationBarTitle(Text("Leadership"))
+                
+                //TODO: navigation view color gray here:
+            .listStyle(.grouped)
         }
     }
 }
